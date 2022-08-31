@@ -20,5 +20,5 @@ I used clean architcture pattern to separate api layer, application layer(busine
 tried to apply solid principle in this tool like Separation of concern and open-closed and so on 
 used interfaces/helpers/controllers/DI containers
 
-as the time was sensitive, If I had more time I would implement  unit testing, exception handlers,dto and value objects
+as the time was sensitive, If I had more time I would implement  unit testing, exception handlers,dto and value objects 
 
