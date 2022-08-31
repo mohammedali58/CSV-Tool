@@ -1,0 +1,10 @@
+/Users/mohammedali/Projects/CSV-Tool/CSV.Core/bin/Debug/netstandard2.1/CSV.Core.deps.json
+/Users/mohammedali/Projects/CSV-Tool/CSV.Core/bin/Debug/netstandard2.1/CSV.Core.dll
+/Users/mohammedali/Projects/CSV-Tool/CSV.Core/bin/Debug/netstandard2.1/CSV.Core.pdb
+/Users/mohammedali/Projects/CSV-Tool/CSV.Core/obj/Debug/netstandard2.1/CSV.Core.csproj.AssemblyReference.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.Core/obj/Debug/netstandard2.1/CSV.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedali/Projects/CSV-Tool/CSV.Core/obj/Debug/netstandard2.1/CSV.Core.AssemblyInfoInputs.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.Core/obj/Debug/netstandard2.1/CSV.Core.AssemblyInfo.cs
+/Users/mohammedali/Projects/CSV-Tool/CSV.Core/obj/Debug/netstandard2.1/CSV.Core.csproj.CoreCompileInputs.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.Core/obj/Debug/netstandard2.1/CSV.Core.dll
+/Users/mohammedali/Projects/CSV-Tool/CSV.Core/obj/Debug/netstandard2.1/CSV.Core.pdb

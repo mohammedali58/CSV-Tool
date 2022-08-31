@@ -1,0 +1,13 @@
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/bin/Debug/netstandard2.1/CSV.persistence.deps.json
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/bin/Debug/netstandard2.1/CSV.persistence.dll
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/bin/Debug/netstandard2.1/CSV.persistence.pdb
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/bin/Debug/netstandard2.1/CSV.Core.dll
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/bin/Debug/netstandard2.1/CSV.Core.pdb
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/obj/Debug/netstandard2.1/CSV.persistence.csproj.AssemblyReference.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/obj/Debug/netstandard2.1/CSV.persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/obj/Debug/netstandard2.1/CSV.persistence.AssemblyInfoInputs.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/obj/Debug/netstandard2.1/CSV.persistence.AssemblyInfo.cs
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/obj/Debug/netstandard2.1/CSV.persistence.csproj.CoreCompileInputs.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/obj/Debug/netstandard2.1/CSV.persistence.csproj.CopyComplete
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/obj/Debug/netstandard2.1/CSV.persistence.dll
+/Users/mohammedali/Projects/CSV-Tool/CSV.persistence/obj/Debug/netstandard2.1/CSV.persistence.pdb

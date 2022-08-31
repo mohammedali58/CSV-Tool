@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnHQ5GAJeVG7WUCcLaeZwIoO3i+TVgroxSIT8OXgwMG8k9YtkGCfJkxV4Yom1e2tf5O7j4Bm0n1hnsCbRp6mSw==",
+  "success": true,
+  "projectFilePath": "/Users/mohammedali/Projects/CSV-Tool/CSV.Core/CSV.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/mohammedali/.nuget/packages/netstandard.library.ref/2.1.0/netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

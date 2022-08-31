@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{FF1C1BF4-1C4C-473D-A67B-E428CA0E5F46}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSV-Tool PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.CSV.Applications FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../usr/local/share/dotnet/sdk/6.0.400/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+    <Files>
+      <File FileName="CSV-Tool/Controllers/WeatherForecastController.cs" Line="40" Column="70" />
+      <File FileName="CSV-Tool/Program.cs" Line="14" Column="38" />
+      <File FileName="CSV-Tool/application/CsvHelper.cs" Line="18" Column="27" />
+      <File FileName="CSV-Tool/WeatherForecast.cs" Line="3" Column="26" />
+      <File FileName="CSV-Tool/Domain/WeatherForecast (copy) (another copy).cs" Line="9" Column="5" />
+      <File FileName="CSV-Tool/application/Interfaces/EmptyInterface.cs" Line="10" Column="1" />
+      <File FileName="CSV-Tool/application/Interfaces/ILoad.cs" Line="6" Column="37" />
+      <File FileName="CSV-Tool/application/Interfaces/ISolve.cs" Line="10" Column="1" />
+      <File FileName="CSV-Tool/application/Interfaces/ICsvHelper.cs" Line="4" Column="24" />
+      <File FileName="CSV-Tool/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="CSV-Tool/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="CSV.persistence/Class1.cs" Line="36" Column="56" />
+      <File FileName="CSV.application/CsvHelper.cs" Line="12" Column="26" />
+      <File FileName="CSV.persistence/IFileManager.cs" Line="3" Column="1" />
+      <File FileName="CSV.Core/Models/Log.cs" Line="11" Column="2" />
+      <File FileName="CSV.Core/Models/PopulaeBrand.cs" Line="10" Column="2" />
+      <File FileName="CSV.Core/Models/ProductAvg.cs" Line="10" Column="2" />
+      <File FileName="CSV.application/ILogResolver.cs" Line="1" Column="1" />
+      <File FileName="CSV.persistence/Mapper.cs" Line="10" Column="26" />
+      <File FileName="CSV.persistence/startup.cs" Line="20" Column="1" />
+      <File FileName="CSV.application/startup.cs" Line="15" Column="10" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/6.0.400/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="267" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSV-Tool" expanded="True">
+            <Node name="CSV-Tool" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="CSV.application" expanded="True" selected="True" />
+            <Node name="CSV.Core" expanded="True">
+              <Node name="Model" expanded="True" />
+            </Node>
+            <Node name="CSV.persistence" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>GetCurrentDirectory</Value>
+          <Value>Directory.GetCurrentDirectory()</Value>
+          <Value>filepath</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/mohammedali/Projects/CSV-Tool/CSV.application/obj/Debug/netstandard2.1/CSV.application.csproj.AssemblyReference.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.application/obj/Debug/netstandard2.1/CSV.application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedali/Projects/CSV-Tool/CSV.application/obj/Debug/netstandard2.1/CSV.application.AssemblyInfoInputs.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.application/obj/Debug/netstandard2.1/CSV.application.AssemblyInfo.cs
+/Users/mohammedali/Projects/CSV-Tool/CSV.application/obj/Debug/netstandard2.1/CSV.application.csproj.CoreCompileInputs.cache

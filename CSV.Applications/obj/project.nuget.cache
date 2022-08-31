@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NL984fK7GxZhRipoY79FKuR40n3hNRc1l+sqLpzeYI5eulcenRZIbxGl6ye6aR5dkieyu7Bh8eVxbevO5P/MRA==",
+  "success": true,
+  "projectFilePath": "/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/CSV.Applications.csproj",
+  "expectedPackageFiles": [
+    "/Users/mohammedali/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/mohammedali/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/mohammedali/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

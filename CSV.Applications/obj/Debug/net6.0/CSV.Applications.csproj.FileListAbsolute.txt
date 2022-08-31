@@ -1,0 +1,15 @@
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/bin/Debug/net6.0/CSV.Applications.deps.json
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/bin/Debug/net6.0/CSV.Applications.dll
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/bin/Debug/net6.0/CSV.Applications.pdb
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/bin/Debug/net6.0/CSV.Core.dll
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/bin/Debug/net6.0/CSV.Core.pdb
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/obj/Debug/net6.0/CSV.Applications.csproj.AssemblyReference.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/obj/Debug/net6.0/CSV.Applications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/obj/Debug/net6.0/CSV.Applications.AssemblyInfoInputs.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/obj/Debug/net6.0/CSV.Applications.AssemblyInfo.cs
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/obj/Debug/net6.0/CSV.Applications.csproj.CoreCompileInputs.cache
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/obj/Debug/net6.0/CSV.Applications.csproj.CopyComplete
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/obj/Debug/net6.0/CSV.Applications.dll
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/obj/Debug/net6.0/refint/CSV.Applications.dll
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/obj/Debug/net6.0/CSV.Applications.pdb
+/Users/mohammedali/Projects/CSV-Tool/CSV.Applications/obj/Debug/net6.0/ref/CSV.Applications.dll
